@@ -1,0 +1,3 @@
+# 冒号后无空格，YAML会把整行当成字符串
+chat_model_name: qwen3-max
+embedding_model_name: text-embedding-v4
